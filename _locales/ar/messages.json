@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "متخيل هيكل DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "يبرز بصريًا تداخل الأصل/الفرع في DOM عند المرور فوق العناصر الموجودة على صفحة الويب.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "تبديل تشغيل/إيقاف المتخيل",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "افتح الإعدادات",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "نشط - قم بالتمرير فوق العناصر",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "عاجز",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "إعدادات",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "إظهار التسميات",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "عرض علامة العنصر والمعرف ومعلومات الفئة عند التمرير.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "تسليط الضوء على الآباء",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "قم بتمييز العناصر الأصلية للعنصر الذي تم تمريره.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "تسليط الضوء على الأطفال",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "قم بتمييز العناصر الفرعية المباشرة للعنصر الذي تم تمريره.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "عمق الوالدين",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "كم عدد مستويات العناصر الرئيسية التي يجب تسليط الضوء عليها (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "نظام الألوان",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "نظام الألوان",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "تقصير",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "نيون",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "التباين العالي",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "مخصص",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "ألوان مخصصة",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "عرافة",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "إعادة التعيين إلى الإعدادات الافتراضية",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "أسطورة",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "العنصر المتحرك",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "العناصر الأم",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "عناصر الطفل",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "سياسة الخصوصية",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "متخيل DOM - الإعدادات",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "الإعدادات المتقدمة",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "الإعدادات العامة",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "المعاينة المباشرة",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "عن",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "مرخص بموجب ترخيص MIT. حرة ومفتوحة المصدر.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "كود المصدر على جيثب",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "تم حفظ الإعدادات",
+    "description": "Toast message when settings are saved."
+  }
+}

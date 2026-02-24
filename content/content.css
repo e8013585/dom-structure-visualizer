@@ -1,0 +1,195 @@
+/*
+ * DOM Structure Visualizer - Injected Styles
+ * All classes are prefixed with 'dsv-' to avoid conflicts.
+ * These styles are only visually active when the extension is enabled.
+ */
+
+/* ===== HOVERED ELEMENT ===== */
+.dsv-highlight-self {
+  outline: 2.5px solid #2196F3 !important;
+  outline-offset: -1px !important;
+  position: relative !important;
+}
+
+/* ===== PARENT ELEMENTS ===== */
+.dsv-highlight-parent-1 {
+  outline: 2px solid rgba(255, 152, 0, 0.85) !important;
+  outline-offset: -1px !important;
+}
+
+.dsv-highlight-parent-2 {
+  outline: 2px solid rgba(255, 152, 0, 0.55) !important;
+  outline-offset: -1px !important;
+}
+
+.dsv-highlight-parent-3 {
+  outline: 1.5px solid rgba(255, 152, 0, 0.35) !important;
+  outline-offset: -1px !important;
+}
+
+/* ===== CHILD ELEMENTS ===== */
+.dsv-highlight-child {
+  outline: 2px solid rgba(76, 175, 80, 0.8) !important;
+  outline-offset: -1px !important;
+}
+
+/* ===== LABELS ===== */
+.dsv-label {
+  position: absolute !important;
+  z-index: 2147483647 !important;
+  pointer-events: none !important;
+  font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Code', 'Courier New', monospace !important;
+  font-size: 11px !important;
+  line-height: 1.3 !important;
+  padding: 2px 6px !important;
+  border-radius: 3px !important;
+  white-space: nowrap !important;
+  max-width: 350px !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25) !important;
+  opacity: 0 !important;
+  transition: opacity 0.12s ease-in-out !important;
+}
+
+.dsv-label.dsv-label-visible {
+  opacity: 1 !important;
+}
+
+/* Label for hovered element */
+.dsv-label-self {
+  background: #2196F3 !important;
+  color: #ffffff !important;
+  border: 1px solid #1976D2 !important;
+}
+
+/* Label for parent elements */
+.dsv-label-parent {
+  background: #FF9800 !important;
+  color: #ffffff !important;
+  border: 1px solid #F57C00 !important;
+}
+
+/* Label for child elements */
+.dsv-label-child {
+  background: #4CAF50 !important;
+  color: #ffffff !important;
+  border: 1px solid #388E3C !important;
+}
+
+/* ===== LABEL SUB-ELEMENTS ===== */
+.dsv-label-tag {
+  font-weight: 700 !important;
+}
+
+.dsv-label-id {
+  color: #FFF9C4 !important;
+  font-weight: 600 !important;
+}
+
+.dsv-label-class {
+  color: #E0E0E0 !important;
+  font-weight: 400 !important;
+}
+
+.dsv-label-dimensions {
+  color: #B3E5FC !important;
+  font-weight: 400 !important;
+  font-size: 10px !important;
+}
+
+/* ===== COLOR SCHEME: NEON ===== */
+.dsv-scheme-neon .dsv-highlight-self {
+  outline-color: #00E5FF !important;
+}
+
+.dsv-scheme-neon .dsv-highlight-parent-1 {
+  outline-color: rgba(255, 0, 255, 0.85) !important;
+}
+
+.dsv-scheme-neon .dsv-highlight-parent-2 {
+  outline-color: rgba(255, 0, 255, 0.55) !important;
+}
+
+.dsv-scheme-neon .dsv-highlight-parent-3 {
+  outline-color: rgba(255, 0, 255, 0.35) !important;
+}
+
+.dsv-scheme-neon .dsv-highlight-child {
+  outline-color: rgba(0, 255, 0, 0.8) !important;
+}
+
+.dsv-scheme-neon .dsv-label-self {
+  background: #00E5FF !important;
+  color: #000000 !important;
+  border-color: #00B8D4 !important;
+}
+
+.dsv-scheme-neon .dsv-label-parent {
+  background: #FF00FF !important;
+  color: #ffffff !important;
+  border-color: #AA00FF !important;
+}
+
+.dsv-scheme-neon .dsv-label-child {
+  background: #00FF00 !important;
+  color: #000000 !important;
+  border-color: #00C853 !important;
+}
+
+/* ===== COLOR SCHEME: HIGH CONTRAST ===== */
+.dsv-scheme-highcontrast .dsv-highlight-self {
+  outline: 3px solid #FFFF00 !important;
+}
+
+.dsv-scheme-highcontrast .dsv-highlight-parent-1 {
+  outline: 3px solid rgba(255, 0, 0, 0.9) !important;
+}
+
+.dsv-scheme-highcontrast .dsv-highlight-parent-2 {
+  outline: 2.5px solid rgba(255, 0, 0, 0.6) !important;
+}
+
+.dsv-scheme-highcontrast .dsv-highlight-parent-3 {
+  outline: 2px solid rgba(255, 0, 0, 0.4) !important;
+}
+
+.dsv-scheme-highcontrast .dsv-highlight-child {
+  outline: 3px solid rgba(0, 255, 255, 0.9) !important;
+}
+
+.dsv-scheme-highcontrast .dsv-label-self {
+  background: #FFFF00 !important;
+  color: #000000 !important;
+  border-color: #FDD835 !important;
+}
+
+.dsv-scheme-highcontrast .dsv-label-parent {
+  background: #FF0000 !important;
+  color: #ffffff !important;
+  border-color: #B71C1C !important;
+}
+
+.dsv-scheme-highcontrast .dsv-label-child {
+  background: #00FFFF !important;
+  color: #000000 !important;
+  border-color: #00ACC1 !important;
+}
+
+/* ===== OVERLAY CONTAINER ===== */
+.dsv-overlay-container {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  pointer-events: none !important;
+  z-index: 2147483646 !important;
+  overflow: visible !important;
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes dsv-pulse {
+  0%, 100% { outline-offset: -1px; }
+  50% { outline-offset: 1px; }
+}

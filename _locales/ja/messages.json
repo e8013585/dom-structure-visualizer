@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM 構造ビジュアライザー",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Web ページ上の要素の上にマウスを置くと、DOM の親/子のネストが視覚的に強調表示されます。",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "ビジュアライザのオン/オフを切り替える",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "設定を開く",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "アクティブ - 要素の上にマウスを置きます",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "無効",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "設定",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "ラベルを表示",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "ホバー時に要素のタグ、ID、クラス情報を表示します。",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "親を強調表示する",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "ホバーされた要素の親要素を強調表示します。",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "子どもたちをハイライトする",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "ホバーされた要素の直接の子要素を強調表示します。",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "親の深さ",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "ハイライトする親要素のレベル数 (1 ～ 5)。",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "配色",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "配色",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "デフォルト",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "ネオン",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "ハイコントラスト",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "カスタム",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "カスタムカラー",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "16進数",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "デフォルトにリセット",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "伝説",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "ホバーされた要素",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "親要素",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "子要素",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "プライバシーポリシー",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM ビジュアライザー — 設定",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "詳細設定",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "一般設定",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "ライブプレビュー",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "について",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "MITライセンスに基づいてライセンスされています。無料でオープンソース。",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHub のソースコード",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "設定が保存されました",
+    "description": "Toast message when settings are saved."
+  }
+}

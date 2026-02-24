@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM szerkezeti megjelenítő",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Vizuálisan kiemeli a DOM szülő/gyermek egymásba ágyazását, amikor az egérmutatót a weboldal elemei fölé viszi.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "A megjelenítő be- és kikapcsolása",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Nyissa meg a beállításokat",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Aktív – vigye az egérmutatót az elemek fölé",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Letiltva",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Beállítások elemre",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Címkék megjelenítése",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Az elemcímke, az azonosító és az osztály információinak megjelenítése lebegtetéskor.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Jelölje ki a Szülők",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Jelölje ki a lebegtetett elem szülőelemeit.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Jelölje ki a Gyermekek elemet",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Jelölje ki a lebegtetett elem közvetlen gyermekelemeit.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Szülői mélység",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Hány szintű szülőelemet kell kiemelni (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Színséma",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Színséma",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Alapértelmezett",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Magas kontraszt",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Szokás",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Egyedi színek",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Állítsa vissza az alapértelmezett értékeket",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Legenda",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Lebegő elem",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Szülőelemek",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Gyermek elemek",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Adatvédelmi szabályzat",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM megjelenítő — Beállítások",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Speciális beállítások",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Általános beállítások",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Élő előnézet",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Körülbelül",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Licenc az MIT licenc alatt. Ingyenes és nyílt forráskódú.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Forráskód a GitHubon",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "A beállítások elmentve",
+    "description": "Toast message when settings are saved."
+  }
+}

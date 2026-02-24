@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM ಸ್ಟ್ರಕ್ಚರ್ ವಿಷುಲೈಜರ್",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "ವೆಬ್‌ಪುಟದಲ್ಲಿನ ಅಂಶಗಳ ಮೇಲೆ ತೂಗಾಡುತ್ತಿರುವಾಗ DOM ಪೋಷಕ/ಮಕ್ಕಳ ಗೂಡುಕಟ್ಟುವಿಕೆಯನ್ನು ದೃಷ್ಟಿಗೋಚರವಾಗಿ ಹೈಲೈಟ್ ಮಾಡುತ್ತದೆ.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "ದೃಶ್ಯೀಕರಣವನ್ನು ಟಾಗಲ್ ಆನ್/ಆಫ್ ಮಾಡಿ",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "ಸಕ್ರಿಯ - ಅಂಶಗಳ ಮೇಲೆ ಸುಳಿದಾಡಿ",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "ಲೇಬಲ್‌ಗಳನ್ನು ತೋರಿಸಿ",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "ತೂಗಾಡುತ್ತಿರುವಾಗ ಅಂಶ ಟ್ಯಾಗ್, ಐಡಿ ಮತ್ತು ವರ್ಗ ಮಾಹಿತಿಯನ್ನು ಪ್ರದರ್ಶಿಸಿ.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "ಪೋಷಕರನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "ಹೋವರ್ ಮಾಡಿದ ಅಂಶದ ಮೂಲ ಅಂಶಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "ಮಕ್ಕಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "ಹೋವರ್ ಮಾಡಿದ ಅಂಶದ ನೇರ ಮಕ್ಕಳ ಅಂಶಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "ಪೋಷಕರ ಆಳ",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "ಹೈಲೈಟ್ ಮಾಡಲು ಪೋಷಕ ಅಂಶಗಳ ಎಷ್ಟು ಹಂತಗಳು (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "ಬಣ್ಣದ ಯೋಜನೆ",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "ಬಣ್ಣದ ಯೋಜನೆ",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "ಡೀಫಾಲ್ಟ್",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "ನಿಯಾನ್",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "ಹೆಚ್ಚಿನ ಕಾಂಟ್ರಾಸ್ಟ್",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "ಕಸ್ಟಮ್",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "ಕಸ್ಟಮ್ ಬಣ್ಣಗಳು",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "ಹೆಕ್ಸ್",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "ಡೀಫಾಲ್ಟ್‌ಗಳಿಗೆ ಮರುಹೊಂದಿಸಿ",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "ದಂತಕಥೆ",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "ಸುಳಿದಾಡಿದ ಅಂಶ",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "ಪೋಷಕ ಅಂಶಗಳು",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "ಮಕ್ಕಳ ಅಂಶಗಳು",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "ಗೌಪ್ಯತೆ ನೀತಿ",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM ದೃಶ್ಯೀಕರಣ - ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "ಸುಧಾರಿತ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "ಸಾಮಾನ್ಯ ಸೆಟ್ಟಿಂಗ್ಗಳು",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "ಲೈವ್ ಪೂರ್ವವೀಕ್ಷಣೆ",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "ಬಗ್ಗೆ",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "MIT ಪರವಾನಗಿ ಅಡಿಯಲ್ಲಿ ಪರವಾನಗಿ ಪಡೆದಿದೆ. ಉಚಿತ ಮತ್ತು ಮುಕ್ತ ಮೂಲ.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHub ನಲ್ಲಿ ಮೂಲ ಕೋಡ್",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ",
+    "description": "Toast message when settings are saved."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Vizualizator strukture DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Vizualno poudari nadrejeno/podrejeno gnezdenje DOM, ko miškin kazalec premaknete nad elemente na spletni strani.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Vklop/izklop vizualizatorja",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Odprite nastavitve",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Aktivno — premaknite miškin kazalec nad elemente",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Onemogočen",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "nastavitve",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Prikaži oznake",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Prikažite oznako elementa, ID in informacije o razredu, ko lebdite.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Označite starše",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Označite nadrejene elemente lebdečega elementa.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Označite Otroci",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Označite neposredne podrejene elemente elementa, nad katerim lebdite.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Nadrejena globina",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Koliko ravni nadrejenih elementov je treba označiti (1–5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Barvna shema",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Barvna shema",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Privzeto",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Visok kontrast",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Po meri",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Barve po meri",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Ponastavi na privzete nastavitve",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Legenda",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Lebdeči element",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Nadrejeni elementi",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Otroški elementi",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Politika zasebnosti",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "Vizualizator DOM — Nastavitve",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Napredne nastavitve",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Splošne nastavitve",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Predogled v živo",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "O tem",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Licencirano pod licenco MIT. Brezplačna in odprtokodna.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Izvorna koda na GitHubu",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Nastavitve shranjene",
+    "description": "Toast message when settings are saved."
+  }
+}

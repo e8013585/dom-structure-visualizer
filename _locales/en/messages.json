@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM Structure Visualizer",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Visually highlights DOM parent/child nesting when hovering over elements on a webpage.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Toggle visualizer on/off",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Open settings",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Active — hover over elements",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Disabled",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Settings",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Show Labels",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Display element tag, id, and class information when hovering.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Highlight Parents",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Highlight parent elements of the hovered element.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Highlight Children",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Highlight direct child elements of the hovered element.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Parent Depth",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "How many levels of parent elements to highlight (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Color Scheme",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Color Scheme",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Default",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "High Contrast",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Custom",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Custom Colors",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Reset to Defaults",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Legend",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Hovered Element",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Parent Elements",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Child Elements",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Privacy Policy",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer — Settings",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Advanced Settings",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "General Settings",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Live Preview",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "About",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Licensed under the MIT License. Free and open source.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Source Code on GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Settings saved",
+    "description": "Toast message when settings are saved."
+  }
+}

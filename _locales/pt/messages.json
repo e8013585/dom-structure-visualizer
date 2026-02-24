@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Visualizador de estrutura DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Destaca visualmente o aninhamento pai/filho do DOM ao passar o mouse sobre os elementos em uma página da web.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Ativar/desativar visualizador",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Abrir configurações",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Ativo – passe o mouse sobre os elementos",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Desabilitado",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Configurações",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Mostrar rótulos",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Exibe informações de tag, id e classe do elemento ao passar o mouse.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Destacar pais",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Destaque os elementos pais do elemento pairado.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Destacar crianças",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Destaque os elementos filhos diretos do elemento pairado.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Profundidade Pai",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Quantos níveis de elementos pais destacar (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Esquema de cores",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Esquema de cores",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Padrão",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Néon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Alto contraste",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Personalizado",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Cores personalizadas",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Redefinir para os padrões",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Lenda",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Elemento pairado",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Elementos Pais",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Elementos Filhos",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "política de Privacidade",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "Visualizador DOM – Configurações",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Configurações avançadas",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Configurações Gerais",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Visualização ao vivo",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Sobre",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Licenciado sob a licença MIT. Gratuito e de código aberto.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Código-fonte no GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Configurações salvas",
+    "description": "Toast message when settings are saved."
+  }
+}

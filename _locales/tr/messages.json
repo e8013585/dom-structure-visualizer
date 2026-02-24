@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM Yapısı Görselleştiricisi",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Bir web sayfasındaki öğelerin üzerine gelindiğinde DOM üst/alt yerleşimini görsel olarak vurgular.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Görselleştiriciyi aç/kapat",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Ayarları aç",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Etkin — öğelerin üzerine gelin",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Engelli",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Ayarlar",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Etiketleri Göster",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Fareyle üzerine gelindiğinde öğe etiketini, kimliğini ve sınıf bilgilerini görüntüleyin.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Ebeveynleri Vurgula",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Üzerine gelinen öğenin ana öğelerini vurgulayın.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Çocukları Vurgulayın",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Üzerine gelinen öğenin doğrudan alt öğelerini vurgulayın.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Ebeveyn Derinliği",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Kaç düzeyde ana öğenin vurgulanacağı (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Renk Şeması",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Renk Şeması",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Varsayılan",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Yüksek Kontrast",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Gelenek",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Özel Renkler",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "altıgen",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Varsayılanlara Sıfırla",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Efsane",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Vurgulu Öğe",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Ana Öğeler",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Alt Öğeler",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Gizlilik Politikası",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Görüntüleyici — Ayarlar",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Gelişmiş Ayarlar",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Genel Ayarlar",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Canlı Önizleme",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Hakkında",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "MIT Lisansı kapsamında lisanslıdır. Ücretsiz ve açık kaynak kodludur.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHub'daki Kaynak Kodu",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Ayarlar kaydedildi",
+    "description": "Toast message when settings are saved."
+  }
+}

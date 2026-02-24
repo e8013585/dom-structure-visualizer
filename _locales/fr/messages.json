@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Visualiseur de structure DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Met en évidence visuellement l'imbrication parent/enfant DOM lorsque vous survolez des éléments d'une page Web.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Activer/désactiver le visualiseur",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Ouvrir les paramètres",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Actif : survolez les éléments",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Désactivé",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Paramètres",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Afficher les étiquettes",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Afficher les informations sur la balise, l'identifiant et la classe de l'élément lors du survol.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Mettre en évidence les parents",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Mettez en surbrillance les éléments parents de l'élément survolé.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Mettre en évidence les enfants",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Mettez en surbrillance les éléments enfants directs de l’élément survolé.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Profondeur des parents",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Combien de niveaux d'éléments parents mettre en évidence (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Schéma de couleurs",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Schéma de couleurs",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Défaut",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Néon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Contraste élevé",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Coutume",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Couleurs personnalisées",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEXAMEN",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Réinitialiser aux valeurs par défaut",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Légende",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Élément survolé",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Éléments parents",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Éléments enfants",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "politique de confidentialité",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "Visualiseur DOM — Paramètres",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Paramètres avancés",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Paramètres généraux",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Aperçu en direct",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "À propos",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Sous licence MIT. Gratuit et open source.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Code source sur GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Paramètres enregistrés",
+    "description": "Toast message when settings are saved."
+  }
+}

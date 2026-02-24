@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM સ્ટ્રક્ચર વિઝ્યુલાઇઝર",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "વેબપેજ પર તત્વો પર હોવર કરતી વખતે DOM માતા-પિતા/બાળકના માળખાને વિઝ્યુઅલી હાઇલાઇટ કરે છે.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "વિઝ્યુલાઇઝર ચાલુ/બંધ ટૉગલ કરો",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "સેટિંગ્સ ખોલો",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "સક્રિય — તત્વો પર હોવર કરો",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "અક્ષમ",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "સેટિંગ્સ",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "લેબલ્સ બતાવો",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "હોવર કરતી વખતે એલિમેન્ટ ટેગ, આઈડી અને વર્ગની માહિતી દર્શાવો.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "માતાપિતાને હાઇલાઇટ કરો",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "હોવર કરેલ તત્વના મુખ્ય ઘટકોને હાઇલાઇટ કરો.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "બાળકોને હાઇલાઇટ કરો",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "હોવર કરેલ તત્વના સીધા બાળ ઘટકોને હાઇલાઇટ કરો.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "પિતૃ ઊંડાઈ",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "મુખ્ય ઘટકોના કેટલા સ્તરો પ્રકાશિત કરવા (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "રંગ યોજના",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "રંગ યોજના",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "ડિફૉલ્ટ",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "નિયોન",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "ઉચ્ચ કોન્ટ્રાસ્ટ",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "કસ્ટમ",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "કસ્ટમ રંગો",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "હેક્સ",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "ડિફૉલ્ટ પર ફરીથી સેટ કરો",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "દંતકથા",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "હૉવર્ડ એલિમેન્ટ",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "પિતૃ તત્વો",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "બાળ તત્વો",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "ગોપનીયતા નીતિ",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM વિઝ્યુલાઇઝર — સેટિંગ્સ",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "અદ્યતન સેટિંગ્સ",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "સામાન્ય સેટિંગ્સ",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "લાઈવ પૂર્વાવલોકન",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "વિશે",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "MIT લાયસન્સ હેઠળ લાઇસન્સ. મફત અને ઓપન સોર્સ.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHub પર સોર્સ કોડ",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "સેટિંગ્સ સાચવી",
+    "description": "Toast message when settings are saved."
+  }
+}

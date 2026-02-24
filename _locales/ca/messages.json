@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Visualitzador d'estructura DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Ressalta visualment la nidificació pare/fill DOM quan es passa el cursor per sobre dels elements d'una pàgina web.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Activa/desactiva el visualitzador",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Obre la configuració",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Actiu: passeu el cursor per sobre dels elements",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Inhabilitat",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Configuració",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Mostra les etiquetes",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Mostra informació sobre l'etiqueta de l'element, l'identificador i la classe en passar el cursor.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Ressaltar els pares",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Ressalteu els elements pare de l'element passat.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Ressaltar nens",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Ressalteu els elements secundaris directes de l'element passat.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Profunditat dels pares",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Quants nivells d'elements pare a destacar (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Esquema de colors",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Esquema de colors",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Per defecte",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neó",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Alt contrast",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Personalitzat",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Colors personalitzats",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Restableix els valors per defecte",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Llegenda",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Element flotat",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Elements pares",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Elements infantils",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Política de privadesa",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "Visualitzador DOM — Configuració",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Configuració avançada",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Configuració general",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Vista prèvia en directe",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Sobre",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Amb llicència sota la llicència MIT. Gratuït i de codi obert.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Codi font a GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "S'ha desat la configuració",
+    "description": "Toast message when settings are saved."
+  }
+}

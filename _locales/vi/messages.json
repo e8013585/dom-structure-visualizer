@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Trình hiển thị cấu trúc DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Làm nổi bật trực quan việc lồng DOM cha/con khi di chuột qua các thành phần trên trang web.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Bật/tắt trình hiển thị",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Mở cài đặt",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Đang hoạt động - di chuột qua các phần tử",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Tàn tật",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Cài đặt",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Hiển thị nhãn",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Hiển thị thông tin thẻ phần tử, id và lớp khi di chuột.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Làm nổi bật cha mẹ",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Làm nổi bật các phần tử cha của phần tử được di chuột.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Làm nổi bật trẻ em",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Làm nổi bật các phần tử con trực tiếp của phần tử được di chuột.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Độ sâu gốc",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Có bao nhiêu cấp độ của phần tử gốc cần làm nổi bật (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Phối màu",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Phối màu",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Mặc định",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Độ tương phản cao",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Phong tục",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Màu tùy chỉnh",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Đặt lại về mặc định",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Huyền thoại",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Phần tử di chuột",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Yếu tố gốc",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Yếu tố con",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Chính sách bảo mật",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "Trình hiển thị DOM - Cài đặt",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Cài đặt nâng cao",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Cài đặt chung",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Xem trước trực tiếp",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Về",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Được cấp phép theo Giấy phép MIT. Nguồn mở và miễn phí.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Mã nguồn trên GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Đã lưu cài đặt",
+    "description": "Toast message when settings are saved."
+  }
+}

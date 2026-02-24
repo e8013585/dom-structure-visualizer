@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM സ്ട്രക്ചർ വിഷ്വലൈസർ",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "ഒരു വെബ്‌പേജിലെ ഘടകങ്ങളിൽ ഹോവർ ചെയ്യുമ്പോൾ DOM പേരൻ്റ്/ചൈൽഡ് നെസ്റ്റിംഗ് ദൃശ്യപരമായി ഹൈലൈറ്റ് ചെയ്യുന്നു.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "വിഷ്വലൈസർ ഓൺ/ഓഫ് ടോഗിൾ ചെയ്യുക",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "ക്രമീകരണങ്ങൾ തുറക്കുക",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "സജീവം - ഘടകങ്ങളിൽ ഹോവർ ചെയ്യുക",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "അപ്രാപ്തമാക്കി",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "ക്രമീകരണങ്ങൾ",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "ലേബലുകൾ കാണിക്കുക",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "ഹോവർ ചെയ്യുമ്പോൾ എലമെൻ്റ് ടാഗ്, ഐഡി, ക്ലാസ് വിവരങ്ങൾ എന്നിവ പ്രദർശിപ്പിക്കുക.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "മാതാപിതാക്കളെ ഹൈലൈറ്റ് ചെയ്യുക",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "ഹോവർ ചെയ്ത മൂലകത്തിൻ്റെ പാരൻ്റ് ഘടകങ്ങൾ ഹൈലൈറ്റ് ചെയ്യുക.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "കുട്ടികളെ ഹൈലൈറ്റ് ചെയ്യുക",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "ഹോവർ ചെയ്ത മൂലകത്തിൻ്റെ നേരിട്ടുള്ള ചൈൽഡ് ഘടകങ്ങൾ ഹൈലൈറ്റ് ചെയ്യുക.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "മാതാപിതാക്കളുടെ ആഴം",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "ഹൈലൈറ്റ് ചെയ്യേണ്ട പാരൻ്റ് ഘടകങ്ങളുടെ എത്ര ലെവലുകൾ (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "വർണ്ണ സ്കീം",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "വർണ്ണ സ്കീം",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "സ്ഥിരസ്ഥിതി",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "നിയോൺ",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "ഉയർന്ന ദൃശ്യതീവ്രത",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "കസ്റ്റം",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "ഇഷ്ടാനുസൃത നിറങ്ങൾ",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "ഹെക്സ്",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "സ്ഥിരസ്ഥിതിയിലേക്ക് പുനഃസജ്ജമാക്കുക",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "ഇതിഹാസം",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "ഹോവർഡ് എലമെൻ്റ്",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "രക്ഷാകർതൃ ഘടകങ്ങൾ",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "കുട്ടികളുടെ ഘടകങ്ങൾ",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "സ്വകാര്യതാ നയം",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM വിഷ്വലൈസർ - ക്രമീകരണങ്ങൾ",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "വിപുലമായ ക്രമീകരണങ്ങൾ",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "പൊതുവായ ക്രമീകരണങ്ങൾ",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "തത്സമയ പ്രിവ്യൂ",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "കുറിച്ച്",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "MIT ലൈസൻസിന് കീഴിൽ ലൈസൻസ് ചെയ്‌തിരിക്കുന്നു. സ്വതന്ത്രവും ഓപ്പൺ സോഴ്‌സും.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHub-ലെ ഉറവിട കോഡ്",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "ക്രമീകരണങ്ങൾ സംരക്ഷിച്ചു",
+    "description": "Toast message when settings are saved."
+  }
+}

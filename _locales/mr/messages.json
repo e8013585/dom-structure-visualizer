@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM स्ट्रक्चर व्हिज्युअलायझर",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "वेबपृष्ठावरील घटकांवर फिरत असताना DOM पालक/मुलाचे नेस्टिंग दृश्यमानपणे हायलाइट करते.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "व्हिज्युअलायझर चालू/बंद टॉगल करा",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "सेटिंग्ज उघडा",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "सक्रिय — घटकांवर फिरवा",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "अक्षम",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "सेटिंग्ज",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "लेबल दाखवा",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "फिरवत असताना घटक टॅग, आयडी आणि वर्ग माहिती प्रदर्शित करा.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "पालकांना हायलाइट करा",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "फिरवलेल्या घटकाचे मूळ घटक हायलाइट करा.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "मुले हायलाइट करा",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "फिरवलेल्या घटकाचे थेट मूल घटक हायलाइट करा.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "पालक खोली",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "मुख्य घटकांचे किती स्तर हायलाइट करायचे (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "रंग योजना",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "रंग योजना",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "डीफॉल्ट",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "निऑन",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "उच्च कॉन्ट्रास्ट",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "सानुकूल",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "सानुकूल रंग",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "डीफॉल्टवर रीसेट करा",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "दंतकथा",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "फिरवलेला घटक",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "पालक घटक",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "बाल घटक",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "गोपनीयता धोरण",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM व्हिज्युअलायझर — सेटिंग्ज",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "प्रगत सेटिंग्ज",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "सामान्य सेटिंग्ज",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "थेट पूर्वावलोकन",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "बद्दल",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "MIT लायसन्स अंतर्गत परवाना. मुक्त आणि मुक्त स्रोत.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHub वर स्त्रोत कोड",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "सेटिंग्ज सेव्ह केल्या",
+    "description": "Toast message when settings are saved."
+  }
+}

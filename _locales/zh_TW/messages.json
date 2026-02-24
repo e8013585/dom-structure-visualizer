@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM 結構視覺化工具",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "將滑鼠懸停在網頁上的元素上時，以視覺方式突出顯示 DOM 父/子嵌套。",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "開啟/關閉視覺化工具",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "開啟設定",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "活動 — 將滑鼠停留在元素上",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "殘障人士",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "設定",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "顯示標籤",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "懸停時顯示元素標籤、id 和類別資訊。",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "突顯父母",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "反白顯示懸停元素的父元素。",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "突顯兒童",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "反白顯示懸停元素的直接子元素。",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "父深度",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "若要反白顯示多少級父元素（1-5）。",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "配色方案",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "配色方案",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "預設",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "氖",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "高對比度",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "風俗",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "客製化顏色",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "十六進位",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "重設為預設值",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "傳奇",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "懸停元素",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "父元素",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "子元素",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "隱私權政策",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM 視覺化工具 — 設置",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "進階設定",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "常規設定",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "即時預覽",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "關於",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "根據 MIT 許可證獲得許可。免費且開源。",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHub 上的原始碼",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "設定已儲存",
+    "description": "Toast message when settings are saved."
+  }
+}

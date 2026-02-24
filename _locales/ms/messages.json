@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Visualizer Struktur DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Menyerlahkan sarang ibu bapa/anak DOM secara visual apabila menuding pada elemen pada halaman web.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Togol visualizer hidup/mati",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Buka tetapan",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Aktif — tuding pada elemen",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Dilumpuhkan",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "tetapan",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Tunjukkan Label",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Paparkan teg elemen, id dan maklumat kelas apabila melayang.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Serlahkan Ibu Bapa",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Serlahkan elemen induk bagi elemen yang dilegar.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Serlahkan Kanak-kanak",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Serlahkan elemen anak langsung bagi elemen yang dilegar.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Kedalaman Ibu Bapa",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Berapa tahap elemen induk yang perlu diserlahkan (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Skim Warna",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Skim Warna",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Lalai",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Kontras Tinggi",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Adat",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Warna Tersuai",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Tetapkan semula kepada Lalai",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Lagenda",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Elemen Berlegar",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Elemen Induk",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Elemen Kanak-kanak",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Dasar Privasi",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer — Tetapan",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Tetapan Lanjutan",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Tetapan Umum",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Pratonton Langsung",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Tentang",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Dilesenkan di bawah Lesen MIT. Percuma dan sumber terbuka.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Kod Sumber pada GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Tetapan disimpan",
+    "description": "Toast message when settings are saved."
+  }
+}

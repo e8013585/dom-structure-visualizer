@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM கட்டமைப்பு விஷுவலைசர்",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "வலைப்பக்கத்தில் உள்ள உறுப்புகளின் மீது வட்டமிடும்போது DOM பெற்றோர்/குழந்தை கூடு கட்டுவதைக் காட்சிப்படுத்துகிறது.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "காட்சிப்படுத்தலை இயக்க/முடக்கு",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "அமைப்புகளைத் திறக்கவும்",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "செயலில் - உறுப்புகளின் மீது வட்டமிடுங்கள்",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "முடக்கப்பட்டது",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "அமைப்புகள்",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "லேபிள்களைக் காட்டு",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "வட்டமிடும்போது உறுப்பு குறிச்சொல், ஐடி மற்றும் வகுப்புத் தகவலைக் காண்பி.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "பெற்றோரை முன்னிலைப்படுத்தவும்",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "நகர்த்தப்பட்ட உறுப்பின் மூலக் கூறுகளை முன்னிலைப்படுத்தவும்.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "குழந்தைகளை முன்னிலைப்படுத்தவும்",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "நகர்த்தப்பட்ட தனிமத்தின் நேரடி குழந்தை கூறுகளை முன்னிலைப்படுத்தவும்.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "பெற்றோர் ஆழம்",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "முன்னிலைப்படுத்த வேண்டிய பெற்றோர் உறுப்புகளின் எத்தனை நிலைகள் (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "வண்ணத் திட்டம்",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "வண்ணத் திட்டம்",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "இயல்புநிலை",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "நியான்",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "உயர் மாறுபாடு",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "தனிப்பயன்",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "விருப்ப நிறங்கள்",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "ஹெக்ஸ்",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "இயல்புநிலைக்கு மீட்டமைக்கவும்",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "புராணக்கதை",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "வட்டமிடப்பட்ட உறுப்பு",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "பெற்றோர் கூறுகள்",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "குழந்தை கூறுகள்",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "தனியுரிமைக் கொள்கை",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM விஷுவலைசர் - அமைப்புகள்",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "மேம்பட்ட அமைப்புகள்",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "பொது அமைப்புகள்",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "நேரடி முன்னோட்டம்",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "பற்றி",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "MIT உரிமத்தின் கீழ் உரிமம் பெற்றது. இலவச மற்றும் திறந்த மூல.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHub இல் மூலக் குறியீடு",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "அமைப்புகள் சேமிக்கப்பட்டன",
+    "description": "Toast message when settings are saved."
+  }
+}

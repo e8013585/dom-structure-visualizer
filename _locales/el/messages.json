@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM Structure Visualizer",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Υπογραμμίζει οπτικά την ένθεση γονέα/παιδιού DOM όταν τοποθετείτε το δείκτη του ποντικιού πάνω από στοιχεία σε μια ιστοσελίδα.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Ενεργοποίηση/απενεργοποίηση οπτικοποιητή",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Ανοίξτε τις ρυθμίσεις",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Ενεργό — τοποθετήστε το δείκτη του ποντικιού πάνω από στοιχεία",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Ανάπηρος",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Ρυθμίσεις",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Εμφάνιση ετικετών",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Εμφάνιση πληροφοριών ετικέτας στοιχείου, αναγνωριστικού και κλάσης όταν τοποθετείτε το δείκτη του ποντικιού.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Επισημάνετε τους γονείς",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Επισημάνετε τα γονικά στοιχεία του στοιχείου που τοποθετείται με το δείκτη του ποντικιού.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Επισημάνετε τα παιδιά",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Επισημάνετε τα άμεσα θυγατρικά στοιχεία του στοιχείου που αιωρείται.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Βάθος γονέα",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Πόσα επίπεδα γονικών στοιχείων να επισημανθούν (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Σχέδιο χρωμάτων",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Σχέδιο χρωμάτων",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Αθέτηση",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Νέο",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Υψηλή Αντίθεση",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Εθιμο",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Προσαρμοσμένα χρώματα",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "ΓΟΗΤΕΥΩ",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Επαναφορά στις προεπιλογές",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Θρύλος",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Hovered Element",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Γονικά Στοιχεία",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Παιδικά Στοιχεία",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Πολιτική Απορρήτου",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer — Ρυθμίσεις",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Προηγμένες ρυθμίσεις",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Γενικές Ρυθμίσεις",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Ζωντανή προεπισκόπηση",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Για",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Άδεια χρήσης βάσει της άδειας MIT. Δωρεάν και ανοιχτού κώδικα.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Πηγαίος κώδικας στο GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Οι ρυθμίσεις αποθηκεύτηκαν",
+    "description": "Toast message when settings are saved."
+  }
+}

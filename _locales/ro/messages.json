@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM Structure Visualizer",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Evidențiază vizual imbricarea părinte/copil DOM atunci când treceți cu mouse-ul peste elemente de pe o pagină web.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Activați/dezactivați vizualizatorul",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Deschideți setările",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Activ — plasați cursorul peste elemente",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Dezactivat",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Setări",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Afișați etichete",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Afișați eticheta elementului, id-ul și informațiile despre clasă atunci când treceți cu mouse-ul.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Evidențiați Părinți",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Evidențiați elementele părinte ale elementului plasat.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Evidențiați Copii",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Evidențiați elementele secundare directe ale elementului plasat.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Adâncimea părintelui",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Câte niveluri de elemente părinte să evidențiezi (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Schema de culori",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Schema de culori",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Implicit",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Contrast ridicat",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Personalizat",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Culori personalizate",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Resetați la valorile implicite",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Legendă",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Element suspendat",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Elemente părinte",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Elemente copil",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Politica de confidențialitate",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer — Setări",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Setări avansate",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Setări generale",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Previzualizare live",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Despre",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Licențiat sub licența MIT. Gratuit și open source.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Cod sursă pe GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Setările au fost salvate",
+    "description": "Toast message when settings are saved."
+  }
+}

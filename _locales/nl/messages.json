@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM-structuurvisualisatie",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Markeert visueel de nesting van DOM-ouders en -kinderen wanneer u over elementen op een webpagina zweeft.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Visualisatie aan/uit zetten",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Instellingen openen",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Actief — beweeg over elementen",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Gehandicapt",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Instellingen",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Etiketten tonen",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Geef elementtag, id en klasse-informatie weer tijdens het zweven.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Markeer ouders",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Markeer bovenliggende elementen van het zwevende element.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Markeer kinderen",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Markeer directe onderliggende elementen van het zwevende element.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Ouderdiepte",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Hoeveel niveaus van bovenliggende elementen moeten worden gemarkeerd (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Kleurenschema",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Kleurenschema",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Standaard",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Hoog contrast",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Aangepast",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Aangepaste kleuren",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Terugzetten naar standaardwaarden",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Legende",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Zwevend element",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Bovenliggende elementen",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Onderliggende elementen",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Privacybeleid",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer - Instellingen",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Geavanceerde instellingen",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Algemene instellingen",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Live voorbeeld",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Over",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Gelicentieerd onder de MIT-licentie. Gratis en open source.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Broncode op GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Instellingen opgeslagen",
+    "description": "Toast message when settings are saved."
+  }
+}

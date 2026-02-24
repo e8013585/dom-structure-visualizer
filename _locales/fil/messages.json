@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Visualizer ng Structure ng DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Biswal na hina-highlight ang DOM parent/child nesting kapag nagho-hover sa mga elemento sa isang webpage.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "I-toggle ang visualizer sa on/off",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Buksan ang mga setting",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Aktibo — mag-hover sa mga elemento",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Hindi pinagana",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Mga setting",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Ipakita ang Mga Label",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Ipakita ang tag ng elemento, id, at impormasyon ng klase kapag nagho-hover.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "I-highlight ang mga Magulang",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "I-highlight ang mga pangunahing elemento ng naka-hover na elemento.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "I-highlight ang mga Bata",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "I-highlight ang mga direktang elemento ng bata ng naka-hover na elemento.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Lalim ng Magulang",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Ilang antas ng mga elemento ng magulang ang iha-highlight (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Kulay Scheme",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Kulay Scheme",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Default",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Mataas na Contrast",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Custom",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Mga Custom na Kulay",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "I-reset sa Mga Default",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Alamat",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Naka-hover na Elemento",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Mga Elemento ng Magulang",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Mga Elemento ng Bata",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Patakaran sa Privacy",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer — Mga Setting",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Mga Advanced na Setting",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Mga Pangkalahatang Setting",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Live Preview",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Tungkol sa",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Lisensyado sa ilalim ng Lisensya ng MIT. Libre at open source.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Source Code sa GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Na-save ang mga setting",
+    "description": "Toast message when settings are saved."
+  }
+}

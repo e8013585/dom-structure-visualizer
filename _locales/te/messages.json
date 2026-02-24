@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM స్ట్రక్చర్ విజువలైజర్",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "వెబ్‌పేజీలో మూలకాలపై హోవర్ చేస్తున్నప్పుడు DOM పేరెంట్/పిల్లల గూడును దృశ్యమానంగా హైలైట్ చేస్తుంది.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "విజులైజర్‌ని ఆన్/ఆఫ్ చేయండి",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "సెట్టింగ్‌లను తెరవండి",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "సక్రియం - మూలకాలపై హోవర్ చేయండి",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "వికలాంగుడు",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "సెట్టింగ్‌లు",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "లేబుల్‌లను చూపించు",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "హోవర్ చేస్తున్నప్పుడు ఎలిమెంట్ ట్యాగ్, ఐడి మరియు క్లాస్ సమాచారాన్ని ప్రదర్శించండి.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "తల్లిదండ్రులను హైలైట్ చేయండి",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "హోవర్ చేసిన మూలకం యొక్క పేరెంట్ ఎలిమెంట్‌లను హైలైట్ చేయండి.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "పిల్లలను హైలైట్ చేయండి",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "హోవర్డ్ ఎలిమెంట్ యొక్క డైరెక్ట్ చైల్డ్ ఎలిమెంట్‌లను హైలైట్ చేయండి.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "తల్లిదండ్రుల లోతు",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "ఎన్ని స్థాయిల పేరెంట్ ఎలిమెంట్స్ హైలైట్ చేయాలి (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "రంగు పథకం",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "రంగు పథకం",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "డిఫాల్ట్",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "నియాన్",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "అధిక కాంట్రాస్ట్",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "కస్టమ్",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "అనుకూల రంగులు",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "హెక్స్",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "డిఫాల్ట్‌లకు రీసెట్ చేయండి",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "లెజెండ్",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "హోవర్డ్ ఎలిమెంట్",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "పేరెంట్ ఎలిమెంట్స్",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "చైల్డ్ ఎలిమెంట్స్",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "గోప్యతా విధానం",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM విజువలైజర్ - సెట్టింగ్‌లు",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "అధునాతన సెట్టింగ్‌లు",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "సాధారణ సెట్టింగులు",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "ప్రత్యక్ష ప్రివ్యూ",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "గురించి",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "MIT లైసెన్స్ క్రింద లైసెన్స్ పొందింది. ఉచిత మరియు ఓపెన్ సోర్స్.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHubలో సోర్స్ కోడ్",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "సెట్టింగ్‌లు సేవ్ చేయబడ్డాయి",
+    "description": "Toast message when settings are saved."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Vizualizér štruktúry DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Vizuálne zvýrazní vnorenie rodičov a potomkov modelu DOM pri umiestnení kurzora myši nad prvky na webovej stránke.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Zapnutie/vypnutie vizualizéra",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Otvorte nastavenia",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Aktívne — umiestnite kurzor myši na prvky",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Zakázané",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Nastavenia",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Zobraziť štítky",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Zobrazte značku prvku, ID a informácie o triede pri umiestnení kurzora myši.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Zvýraznite možnosť Rodičia",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Zvýraznite nadradené prvky vznášajúceho sa prvku.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Zvýraznite deti",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Zvýraznite priame podradené prvky vznášajúceho sa prvku.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Rodičovská hĺbka",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Koľko úrovní nadradených prvkov zvýrazniť (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Farebná schéma",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Farebná schéma",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Predvolené",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Vysoký kontrast",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Vlastné",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Vlastné farby",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Obnoviť predvolené nastavenia",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Legenda",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Vznášaný prvok",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Rodičovské prvky",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Detské prvky",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Zásady ochrany osobných údajov",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer — Nastavenia",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Rozšírené nastavenia",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Všeobecné nastavenia",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Živá ukážka",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "O",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Licencované podľa licencie MIT. Voľný a otvorený zdroj.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Zdrojový kód na GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Nastavenia boli uložené",
+    "description": "Toast message when settings are saved."
+  }
+}

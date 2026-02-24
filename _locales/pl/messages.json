@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Wizualizator struktury DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Wizualnie podkreśla zagnieżdżenie elementu nadrzędnego/podrzędnego DOM po najechaniu kursorem na elementy na stronie internetowej.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Włącz/wyłącz wizualizator",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Otwórz ustawienia",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Aktywny — najedź kursorem na elementy",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Wyłączony",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Ustawienia",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Pokaż etykiety",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Wyświetl znacznik elementu, identyfikator i informacje o klasie po najechaniu myszką.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Zaznacz Rodziców",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Podświetl elementy nadrzędne najechanego elementu.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Zaznacz Dzieci",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Podświetl bezpośrednie elementy podrzędne najechanego elementu.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Głębokość rodzica",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Ile poziomów elementów nadrzędnych ma zostać podświetlonych (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Schemat kolorów",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Schemat kolorów",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Domyślny",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Wysoki kontrast",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Zwyczaj",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Niestandardowe kolory",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "KLĄTWA",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Przywróć ustawienia domyślne",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Legenda",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Unoszący się element",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Elementy nadrzędne",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Elementy podrzędne",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Polityka prywatności",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "Wizualizator DOM — Ustawienia",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Ustawienia zaawansowane",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Ustawienia ogólne",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Podgląd na żywo",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "O",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Licencjonowany na licencji MIT. Darmowe i otwarte źródło.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Kod źródłowy na GitHubie",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Ustawienia zostały zapisane",
+    "description": "Toast message when settings are saved."
+  }
+}

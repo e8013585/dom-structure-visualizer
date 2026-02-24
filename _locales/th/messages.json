@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "เครื่องมือสร้างภาพโครงสร้าง DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "มองเห็นการเน้นการซ้อน DOM ระดับบนสุด/ระดับล่างเมื่อวางเมาส์เหนือองค์ประกอบบนหน้าเว็บ",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "สลับเปิด/ปิดวิชวลไลเซอร์",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "เปิดการตั้งค่า",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "ใช้งานอยู่ — วางเมาส์เหนือองค์ประกอบ",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "พิการ",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "การตั้งค่า",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "แสดงป้ายกำกับ",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "แสดงแท็กองค์ประกอบ รหัส และข้อมูลคลาสเมื่อวางเมาส์เหนือ",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "ไฮไลท์พ่อแม่",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "เน้นองค์ประกอบหลักขององค์ประกอบที่โฮเวอร์",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "ไฮไลท์เด็ก",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "เน้นองค์ประกอบลูกโดยตรงขององค์ประกอบที่โฮเวอร์",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "ความลึกของผู้ปกครอง",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "องค์ประกอบหลักที่ต้องเน้นมีกี่ระดับ (1-5)",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "โครงร่างสี",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "โครงร่างสี",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "ค่าเริ่มต้น",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "นีออน",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "คอนทราสต์สูง",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "กำหนดเอง",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "สีที่กำหนดเอง",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "ฐานสิบหก",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "รีเซ็ตเป็นค่าเริ่มต้น",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "ตำนาน",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "องค์ประกอบที่ถูกโฮเวอร์",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "องค์ประกอบผู้ปกครอง",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "องค์ประกอบเด็ก",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "นโยบายความเป็นส่วนตัว",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer — การตั้งค่า",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "การตั้งค่าขั้นสูง",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "การตั้งค่าทั่วไป",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "ดูตัวอย่างสด",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "เกี่ยวกับ",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "ได้รับอนุญาตภายใต้ใบอนุญาต MIT ฟรีและโอเพ่นซอร์ส",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "ซอร์สโค้ดบน GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "บันทึกการตั้งค่าแล้ว",
+    "description": "Toast message when settings are saved."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM gurluşy wizualizator",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Web sahypasyndaky elementleriň üstünden baranyňyzda DOM ene-atasynyň / çaganyň höwürtgelerini wizual görkezýär.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Wizualizatory açyň / öçüriň",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Sazlamalary açyň",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Işjeň - elementleriň üstünden geçiň",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Maýyp",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Sazlamalar",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Bellikleri görkez",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Aýlananyňyzda element belligini, id we synp maglumatlaryny görkeziň.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Ene-atalary belläň",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Aýlanan elementiň esasy elementlerini tapawutlandyryň.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Çagalary tapawutlandyryň",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Aýlanan elementiň çaga elementlerini aýratyn belläň.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Ene-atanyň çuňlugy",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Ene elementleriniň näçe derejesini bellemeli (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Reňk shemasy",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Reňk shemasy",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Bellenen",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Contokary kontrast",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Omörite",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Omörite reňkler",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Bellenen ýere gaýtaryň",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Rowaýat",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Örtülen element",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Ene elementleri",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Çaga elementleri",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Gizlinlik syýasaty",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer - Sazlamalar",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Giňişleýin sazlamalar",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Umumy sazlamalar",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Göni syn",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Takmynan",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "MIT ygtyýarnamasy boýunça ygtyýarly. Mugt we açyk çeşme.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHub-da çeşme kody",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Sazlamalar saklandy",
+    "description": "Toast message when settings are saved."
+  }
+}

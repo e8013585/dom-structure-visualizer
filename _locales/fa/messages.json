@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "نمایشگر ساختار DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "هنگام قرار گرفتن ماوس روی عناصر یک صفحه وب، تودرتویی والد/فرزند DOM را به صورت بصری برجسته می‌کند.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "روشن/خاموش کردن نمایشگر",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "باز کردن تنظیمات",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "فعال — ماوس را روی عناصر نگه دارید",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "غیرفعال",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "تنظیمات",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "نمایش برچسب‌ها",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "نمایش اطلاعات تگ، شناسه (id) و کلاس عنصر هنگام قرار گرفتن ماوس.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "برجسته کردن عناصر والد",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "عناصر والد عنصری که ماوس روی آن است را برجسته می‌کند.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "برجسته کردن عناصر فرزند",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "عناصر فرزند مستقیم عنصری که ماوس روی آن است را برجسته می‌کند.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "عمق والد",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "چند سطح از عناصر والد برجسته شوند (۱-۵).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "طرح رنگ",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "طرح رنگ",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "پیش‌فرض",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "نئون",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "کنتراست بالا",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "سفارشی",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "رنگ‌های سفارشی",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "بازنشانی به پیش‌فرض‌ها",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "راهنما",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "عنصر انتخاب شده",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "عناصر والد",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "عناصر فرزند",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "سیاست حفظ حریم خصوصی",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "نمایشگر DOM — تنظیمات",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "تنظیمات پیشرفته",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "تنظیمات عمومی",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "پیش‌نمایش زنده",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "درباره",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "تحت لیسانس MIT. رایگان و متن‌باز.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "کد منبع در گیت‌هاب",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "تنظیمات ذخیره شد",
+    "description": "Toast message when settings are saved."
+  }
+}

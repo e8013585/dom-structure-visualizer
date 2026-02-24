@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "የ DOM መዋቅር እይታ ሰሪ",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "በድረ-ገጽ ላይ በንጥረ ነገሮች ላይ ሲያንዣብቡ የDOM ወላጆች/የልጆች መክተቻን በእይታ ያደምቃል።",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "ምስላዊ ማድረጊያን ማብራት/አጥፋ",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "ቅንብሮችን ይክፈቱ",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "ንቁ - በንጥረ ነገሮች ላይ ያንዣብቡ",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "ተሰናክሏል",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "ቅንብሮች",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "መለያዎችን አሳይ",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "በማንዣበብ ጊዜ የአባል መለያ፣ መታወቂያ እና የክፍል መረጃ አሳይ።",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "ወላጆችን አድምቅ",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "የተንዣበበውን ንጥረ ነገር የወላጅ ክፍሎችን አድምቅ።",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "ልጆችን አድምቅ",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "የማንዣበብ ኤለመንት ቀጥተኛ የሕፃን አካላትን ያድምቁ።",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "የወላጅ ጥልቀት",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "ለማድመቅ ስንት የወላጅ አካላት ደረጃዎች (1-5)።",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "የቀለም ዘዴ",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "የቀለም ዘዴ",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "ነባሪ",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "ኒዮን",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "ከፍተኛ ንፅፅር",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "ብጁ",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "ብጁ ቀለሞች",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "ወደ ነባሪዎች ዳግም አስጀምር",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "አፈ ታሪክ",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "የተንዣበበ ኤለመንት",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "የወላጅ አካላት",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "የልጆች ንጥረ ነገሮች",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "የግላዊነት ፖሊሲ",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM ቪዥዋል - ቅንብሮች",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "የላቁ ቅንብሮች",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "አጠቃላይ ቅንብሮች",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "የቀጥታ ቅድመ እይታ",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "ስለ",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "በ MIT ፈቃድ ስር ፍቃድ ተሰጥቶታል። ነፃ እና ክፍት ምንጭ።",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "በ GitHub ላይ የምንጭ ኮድ",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "ቅንብሮች ተቀምጠዋል",
+    "description": "Toast message when settings are saved."
+  }
+}

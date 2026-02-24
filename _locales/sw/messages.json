@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Kitazamaji cha Muundo wa DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Inaonekana kuangazia DOM ya mzazi/mtoto wakati wa kuelea juu ya vipengele kwenye ukurasa wa tovuti.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Washa/kuzima kionyesha taswira",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Fungua mipangilio",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Inatumika - elea juu ya vipengele",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Imezimwa",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Mipangilio",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Onyesha Lebo",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Onyesha lebo ya kipengele, kitambulisho, na maelezo ya darasa unapoelea.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Angazia Wazazi",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Angazia vipengele vya wazazi vya kipengele kilichoelea.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Angazia Watoto",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Angazia vipengele vya mtoto vya moja kwa moja vya kipengele kilichoelea.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Undani wa Mzazi",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Ni viwango vingapi vya vipengele vya mzazi vya kuangazia (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Mpango wa Rangi",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Mpango wa Rangi",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Chaguomsingi",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Utofautishaji wa Juu",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Desturi",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Rangi Maalum",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Weka upya kwa Chaguomsingi",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Hadithi",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Kipengele Cha Kuelea",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Vipengele vya Mzazi",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Vipengele vya Mtoto",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Sera ya Faragha",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "Kitazamaji cha DOM - Mipangilio",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Mipangilio ya Kina",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Mipangilio ya Jumla",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Hakiki ya Moja kwa Moja",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Kuhusu",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Imepewa leseni chini ya Leseni ya MIT. Chanzo huru na wazi.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Nambari ya Chanzo kwenye GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Mipangilio imehifadhiwa",
+    "description": "Toast message when settings are saved."
+  }
+}

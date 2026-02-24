@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM struktūros vizualizatorius",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Vizualiai paryškina DOM pirminį / antrinį lizdą užvedus pelės žymeklį virš tinklalapio elementų.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Įjungti / išjungti vizualizatorių",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Atidarykite nustatymus",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Aktyvus – užveskite pelės žymeklį virš elementų",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Išjungta",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Nustatymai",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Rodyti etiketes",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Užvedus pelės žymeklį rodyti elemento žymą, ID ir klasės informaciją.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Pažymėkite Tėvus",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Pažymėkite pagrindinius elemento, užvedamo pelės žymeklį, elementus.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Pažymėkite Vaikus",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Paryškinkite tiesioginius antrinius elemento, užvedančio pelės žymeklį, elementus.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Tėvų gylis",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Kiek pirminių elementų lygių paryškinti (1–5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Spalvų schema",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Spalvų schema",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Numatytoji",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neoninis",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Didelis kontrastas",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Pasirinktinis",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Individualios spalvos",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Atstatyti į numatytuosius nustatymus",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Legenda",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Užvedęs elementas",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Tėvų elementai",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Vaikų elementai",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Privatumo politika",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM vizualizatorius – nustatymai",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Išplėstiniai nustatymai",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Bendrieji nustatymai",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Tiesioginė peržiūra",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Apie",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Licencijuota pagal MIT licenciją. Nemokamas ir atviras šaltinis.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Šaltinio kodas „GitHub“.",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Nustatymai išsaugoti",
+    "description": "Toast message when settings are saved."
+  }
+}

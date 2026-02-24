@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM Structure Visualizer",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Fremhæver visuelt DOM-forældre/barn-nesting, når du holder markøren over elementer på en webside.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Slå visualizer til/fra",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Åbn indstillinger",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Aktiv — svæv over elementer",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Handicappet",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Indstillinger",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Vis etiketter",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Vis element-tag, id og klasseoplysninger, når du holder musen over.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Fremhæv forældre",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Fremhæv overordnede elementer af det svævende element.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Fremhæv børn",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Fremhæv direkte underordnede elementer af det svævende element.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Forældredybde",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Hvor mange niveauer af overordnede elementer skal fremhæves (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Farveskema",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Farveskema",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Misligholdelse",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Høj kontrast",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Skik",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Brugerdefinerede farver",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Nulstil til standarder",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Legende",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Svævende element",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Forældreelementer",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Barneelementer",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Privatlivspolitik",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer — Indstillinger",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Avancerede indstillinger",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Generelle indstillinger",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Live Preview",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Om",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Licenseret under MIT-licensen. Gratis og open source.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Kildekode på GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Indstillinger gemt",
+    "description": "Toast message when settings are saved."
+  }
+}

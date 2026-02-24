@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM-Struktur-Visualizer",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Hebt die DOM-Eltern-/Kind-Verschachtelung visuell hervor, wenn Sie mit der Maus über Elemente auf einer Webseite fahren.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Visualisierung ein-/ausschalten",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Einstellungen öffnen",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Aktiv – Bewegen Sie den Mauszeiger über Elemente",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Deaktiviert",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Einstellungen",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Beschriftungen anzeigen",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Zeigen Sie Element-Tag, ID und Klasseninformationen an, wenn Sie den Mauszeiger darüber bewegen.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Markieren Sie „Eltern“.",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Heben Sie übergeordnete Elemente des schwebenden Elements hervor.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Markieren Sie Kinder",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Heben Sie direkte untergeordnete Elemente des schwebenden Elements hervor.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Übergeordnete Tiefe",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Wie viele Ebenen der übergeordneten Elemente sollen hervorgehoben werden (1–5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Farbschema",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Farbschema",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Standard",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Hoher Kontrast",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Brauch",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Benutzerdefinierte Farben",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "VERHEXEN",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Auf Standardeinstellungen zurücksetzen",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Legende",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Schwebeelement",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Übergeordnete Elemente",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Untergeordnete Elemente",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Datenschutzrichtlinie",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer – Einstellungen",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Erweiterte Einstellungen",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Allgemeine Einstellungen",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Live-Vorschau",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Um",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Lizenziert unter der MIT-Lizenz. Kostenlos und Open Source.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Quellcode auf GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Einstellungen gespeichert",
+    "description": "Toast message when settings are saved."
+  }
+}

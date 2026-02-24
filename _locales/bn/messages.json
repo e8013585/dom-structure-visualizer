@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM স্ট্রাকচার ভিজ্যুয়ালাইজার",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "একটি ওয়েবপৃষ্ঠার উপাদানগুলির উপর ঘোরাঘুরি করার সময় DOM পিতামাতা/শিশু নেস্টিংকে দৃশ্যত হাইলাইট করে৷",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "ভিজ্যুয়ালাইজার চালু/বন্ধ টগল করুন",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "সেটিংস খুলুন",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "সক্রিয় — উপাদানগুলির উপর হোভার করুন",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "অক্ষম",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "সেটিংস",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "লেবেল দেখান",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "হোভার করার সময় উপাদান ট্যাগ, আইডি এবং ক্লাস তথ্য প্রদর্শন করুন।",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "অভিভাবকদের হাইলাইট করুন",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "হোভার করা উপাদানের মূল উপাদানগুলিকে হাইলাইট করুন।",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "শিশুদের হাইলাইট",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "হোভার্ড এলিমেন্টের সরাসরি চাইল্ড এলিমেন্ট হাইলাইট করুন।",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "পিতামাতার গভীরতা",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "অভিভাবক উপাদানের কত স্তর হাইলাইট করতে হবে (1-5)।",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "রঙের স্কিম",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "রঙের স্কিম",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "ডিফল্ট",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "নিয়ন",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "উচ্চ বৈসাদৃশ্য",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "কাস্টম",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "কাস্টম রং",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "হেক্স",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "ডিফল্টে রিসেট করুন",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "কিংবদন্তি",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "হোভার্ড এলিমেন্ট",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "অভিভাবক উপাদান",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "শিশু উপাদান",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "গোপনীয়তা নীতি",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM ভিজ্যুয়ালাইজার — সেটিংস",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "উন্নত সেটিংস",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "সাধারণ সেটিংস",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "লাইভ প্রিভিউ",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "সম্পর্কে",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "MIT লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত। বিনামূল্যে এবং ওপেন সোর্স.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "গিটহাবের সোর্স কোড",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "সেটিংস সংরক্ষিত",
+    "description": "Toast message when settings are saved."
+  }
+}

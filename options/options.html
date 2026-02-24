@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="optionsPageTitle">DOM Visualizer — Settings</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <div class="options-container">
+    <!-- Header -->
+    <header class="options-header">
+      <div class="header-content">
+        <img src="../icons/icon48.png" alt="" class="header-icon" width="36" height="36">
+        <div class="header-text">
+          <h1 data-i18n="extensionName">DOM Structure Visualizer</h1>
+          <p class="header-subtitle" data-i18n="optionsSubtitle">Advanced Settings</p>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="options-main">
+
+      <!-- General Settings -->
+      <section class="options-section">
+        <h2 class="section-title" data-i18n="generalSettingsTitle">General Settings</h2>
+
+        <div class="option-row">
+          <div class="option-info">
+            <label class="option-label" for="optShowLabels" data-i18n="showLabels">Show Labels</label>
+            <p class="option-desc" data-i18n="showLabelsDesc">Display element tag, id, and class information when hovering.</p>
+          </div>
+          <label class="checkbox-switch">
+            <input type="checkbox" id="optShowLabels" checked>
+            <span class="checkbox-slider"></span>
+          </label>
+        </div>
+
+        <div class="option-row">
+          <div class="option-info">
+            <label class="option-label" for="optHighlightParents" data-i18n="highlightParents">Highlight Parents</label>
+            <p class="option-desc" data-i18n="highlightParentsDesc">Highlight parent elements of the hovered element.</p>
+          </div>
+          <label class="checkbox-switch">
+            <input type="checkbox" id="optHighlightParents" checked>
+            <span class="checkbox-slider"></span>
+          </label>
+        </div>
+
+        <div class="option-row">
+          <div class="option-info">
+            <label class="option-label" for="optHighlightChildren" data-i18n="highlightChildren">Highlight Children</label>
+            <p class="option-desc" data-i18n="highlightChildrenDesc">Highlight direct child elements of the hovered element.</p>
+          </div>
+          <label class="checkbox-switch">
+            <input type="checkbox" id="optHighlightChildren" checked>
+            <span class="checkbox-slider"></span>
+          </label>
+        </div>
+
+        <div class="option-row">
+          <div class="option-info">
+            <label class="option-label" data-i18n="parentDepth">Parent Depth</label>
+            <p class="option-desc" data-i18n="parentDepthDesc">How many levels of parent elements to highlight (1-5).</p>
+          </div>
+          <div class="depth-control">
+            <button id="optDepthMinus" class="depth-btn">−</button>
+            <span id="optDepthValue" class="depth-value">2</span>
+            <button id="optDepthPlus" class="depth-btn">+</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Color Scheme -->
+      <section class="options-section">
+        <h2 class="section-title" data-i18n="colorSchemeTitle">Color Scheme</h2>
+
+        <div class="scheme-selector">
+          <button class="scheme-card scheme-card-active" data-scheme="default">
+            <div class="scheme-preview">
+              <span class="preview-swatch" style="background: #2196F3;"></span>
+              <span class="preview-swatch" style="background: #FF9800;"></span>
+              <span class="preview-swatch" style="background: #4CAF50;"></span>
+            </div>
+            <span class="scheme-card-label" data-i18n="schemeDefault">Default</span>
+          </button>
+
+          <button class="scheme-card" data-scheme="neon">
+            <div class="scheme-preview">
+              <span class="preview-swatch" style="background: #00E5FF;"></span>
+              <span class="preview-swatch" style="background: #FF00FF;"></span>
+              <span class="preview-swatch" style="background: #00FF00;"></span>
+            </div>
+            <span class="scheme-card-label" data-i18n="schemeNeon">Neon</span>
+          </button>
+
+          <button class="scheme-card" data-scheme="highcontrast">
+            <div class="scheme-preview">
+              <span class="preview-swatch" style="background: #FFFF00;"></span>
+              <span class="preview-swatch" style="background: #FF0000;"></span>
+              <span class="preview-swatch" style="background: #00FFFF;"></span>
+            </div>
+            <span class="scheme-card-label" data-i18n="schemeHighContrast">High Contrast</span>
+          </button>
+
+          <button class="scheme-card" data-scheme="custom">
+            <div class="scheme-preview" id="customSchemePreview">
+              <span class="preview-swatch" id="customPreviewSelf" style="background: #2196F3;"></span>
+              <span class="preview-swatch" id="customPreviewParent" style="background: #FF9800;"></span>
+              <span class="preview-swatch" id="customPreviewChild" style="background: #4CAF50;"></span>
+            </div>
+            <span class="scheme-card-label" data-i18n="schemeCustom">Custom</span>
+          </button>
+        </div>
+      </section>
+
+      <!-- Custom Colors (only visible when custom is selected) -->
+      <section class="options-section" id="customColorsSection" style="display: none;">
+        <h2 class="section-title" data-i18n="customColorsTitle">Custom Colors</h2>
+
+        <!-- Hovered Element Color -->
+        <div class="color-option">
+          <div class="color-option-header">
+            <span class="color-option-label" data-i18n="legendHovered">Hovered Element</span>
+            <div class="color-preview-box" id="previewSelf"></div>
+          </div>
+          <div class="color-inputs">
+            <div class="color-input-group">
+              <label class="color-input-label" data-i18n="hexLabel">HEX</label>
+              <input type="text" id="hexSelf" class="color-hex-input" value="#2196F3" maxlength="7" spellcheck="false">
+            </div>
+            <div class="color-input-group">
+              <label class="color-input-label">R</label>
+              <input type="number" id="rSelf" class="color-rgb-input" value="33" min="0" max="255">
+            </div>
+            <div class="color-input-group">
+              <label class="color-input-label">G</label>
+              <input type="number" id="gSelf" class="color-rgb-input" value="150" min="0" max="255">
+            </div>
+            <div class="color-input-group">
+              <label class="color-input-label">B</label>
+              <input type="number" id="bSelf" class="color-rgb-input" value="243" min="0" max="255">
+            </div>
+            <div class="color-input-group">
+              <input type="color" id="pickerSelf" class="color-picker-input" value="#2196F3">
+            </div>
+          </div>
+        </div>
+
+        <!-- Parent Element Color -->
+        <div class="color-option">
+          <div class="color-option-header">
+            <span class="color-option-label" data-i18n="legendParent">Parent Elements</span>
+            <div class="color-preview-box" id="previewParent"></div>
+          </div>
+          <div class="color-inputs">
+            <div class="color-input-group">
+              <label class="color-input-label" data-i18n="hexLabel">HEX</label>
+              <input type="text" id="hexParent" class="color-hex-input" value="#FF9800" maxlength="7" spellcheck="false">
+            </div>
+            <div class="color-input-group">
+              <label class="color-input-label">R</label>
+              <input type="number" id="rParent" class="color-rgb-input" value="255" min="0" max="255">
+            </div>
+            <div class="color-input-group">
+              <label class="color-input-label">G</label>
+              <input type="number" id="gParent" class="color-rgb-input" value="152" min="0" max="255">
+            </div>
+            <div class="color-input-group">
+              <label class="color-input-label">B</label>
+              <input type="number" id="bParent" class="color-rgb-input" value="0" min="0" max="255">
+            </div>
+            <div class="color-input-group">
+              <input type="color" id="pickerParent" class="color-picker-input" value="#FF9800">
+            </div>
+          </div>
+        </div>
+
+        <!-- Child Element Color -->
+        <div class="color-option">
+          <div class="color-option-header">
+            <span class="color-option-label" data-i18n="legendChild">Child Elements</span>
+            <div class="color-preview-box" id="previewChild"></div>
+          </div>
+          <div class="color-inputs">
+            <div class="color-input-group">
+              <label class="color-input-label" data-i18n="hexLabel">HEX</label>
+              <input type="text" id="hexChild" class="color-hex-input" value="#4CAF50" maxlength="7" spellcheck="false">
+            </div>
+            <div class="color-input-group">
+              <label class="color-input-label">R</label>
+              <input type="number" id="rChild" class="color-rgb-input" value="76" min="0" max="255">
+            </div>
+            <div class="color-input-group">
+              <label class="color-input-label">G</label>
+              <input type="number" id="gChild" class="color-rgb-input" value="175" min="0" max="255">
+            </div>
+            <div class="color-input-group">
+              <label class="color-input-label">B</label>
+              <input type="number" id="bChild" class="color-rgb-input" value="80" min="0" max="255">
+            </div>
+            <div class="color-input-group">
+              <input type="color" id="pickerChild" class="color-picker-input" value="#4CAF50">
+            </div>
+          </div>
+        </div>
+
+        <button id="resetCustomColors" class="reset-btn" data-i18n="resetCustomColors">Reset to Defaults</button>
+      </section>
+
+      <!-- Live Preview -->
+      <section class="options-section">
+        <h2 class="section-title" data-i18n="previewTitle">Live Preview</h2>
+        <div class="preview-area" id="previewArea">
+          <div class="preview-element preview-parent-2" id="previewParent2El">
+            <span class="preview-label preview-label-parent" id="previewLabelParent2">&lt;section&gt;</span>
+            <div class="preview-element preview-parent-1" id="previewParent1El">
+              <span class="preview-label preview-label-parent" id="previewLabelParent1">&lt;div&gt;</span>
+              <div class="preview-element preview-self" id="previewSelfEl">
+                <span class="preview-label preview-label-self" id="previewLabelSelf">&lt;p&gt; #main .content</span>
+                <div class="preview-children">
+                  <div class="preview-element preview-child-el" id="previewChild1El">
+                    <span class="preview-label preview-label-child" id="previewLabelChild1">&lt;span&gt;</span>
+                  </div>
+                  <div class="preview-element preview-child-el" id="previewChild2El">
+                    <span class="preview-label preview-label-child" id="previewLabelChild2">&lt;a&gt;</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- About -->
+      <section class="options-section">
+        <h2 class="section-title" data-i18n="aboutTitle">About</h2>
+        <div class="about-content">
+          <p class="about-text"><strong data-i18n="extensionName">DOM Structure Visualizer</strong> <span id="versionText">1.0.0</span></p>
+          <p class="about-text" data-i18n="aboutLicense">Licensed under the MIT License. Free and open source.</p>
+          <div class="about-links">
+            <a href="https://github.com/e8013585/dom-structure-visualizer" target="_blank" rel="noopener noreferrer" class="about-link" data-i18n="sourceCodeLink">Source Code on GitHub</a>
+            <a href="https://AestheticDreamsAI.github.io/dom-structure-visualizer/privacy" target="_blank" rel="noopener noreferrer" class="about-link" data-i18n="footerPrivacyLink">Privacy Policy</a>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- Save Status -->
+    <div id="saveStatus" class="save-status" aria-live="polite">
+      <span data-i18n="savedStatus">Settings saved</span> ✓
+    </div>
+  </div>
+
+  <script src="options.js"></script>
+</body>
+</html>

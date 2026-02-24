@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM struktūras vizualizētājs",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Vizuāli izceļ DOM vecāku/bērnu ligzdošanu, virzot kursoru virs tīmekļa lapas elementiem.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Ieslēgt/izslēgt vizualizatoru",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Atveriet iestatījumus",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Aktīvs — virziet kursoru virs elementiem",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Atspējots",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Iestatījumi",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Rādīt etiķetes",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Virzot kursoru, rādīt elementa tagu, ID un klases informāciju.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Iezīmējiet vecākus",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Iezīmējiet kursora virzītā elementa vecāku elementus.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Izceliet Bērnus",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Iezīmējiet tiešos pakārtotā elementa elementus.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Vecāku dziļums",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Cik vecāku elementu līmeņus izcelt (1–5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Krāsu shēma",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Krāsu shēma",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Noklusējums",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neona",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Augsts kontrasts",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Pielāgots",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Pielāgotas krāsas",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Atiestatīt uz noklusējuma iestatījumiem",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Leģenda",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Paceltais elements",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Vecāki elementi",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Bērna elementi",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Privātuma politika",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM vizualizētājs — iestatījumi",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Papildu iestatījumi",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Vispārīgi iestatījumi",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Tiešraides priekšskatījums",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Par",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Licencēts saskaņā ar MIT licenci. Bezmaksas un atvērtā koda.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Avota kods vietnē GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Iestatījumi saglabāti",
+    "description": "Toast message when settings are saved."
+  }
+}

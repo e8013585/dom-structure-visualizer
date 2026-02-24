@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Візуалізатор структури DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Візуально підсвічує вкладення батьківського/дочірнього елемента DOM під час наведення курсора на елементи на веб-сторінці.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Увімкнути/вимкнути візуалізатор",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Відкрийте налаштування",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Активний — наведіть курсор на елементи",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Вимкнено",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Налаштування",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Показати мітки",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Відображення тегу елемента, ідентифікатора та інформації про клас під час наведення.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Виділіть батьків",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Виділіть батьківські елементи елемента, на який наведено курсор.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Виділіть дітей",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Виділіть прямі дочірні елементи елемента, на який наведено курсор.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Батьківська глибина",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Скільки рівнів батьківських елементів виділити (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Колірна схема",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Колірна схема",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "За замовчуванням",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Неон",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Високий контраст",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Custom",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Спеціальні кольори",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Скинути до значень за замовчуванням",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Легенда",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Наведений елемент",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Батьківські елементи",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Дочірні елементи",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Політика конфіденційності",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "Візуалізатор DOM — Налаштування",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Розширені налаштування",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Загальні налаштування",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Попередній перегляд",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "про",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Ліцензовано згідно з ліцензією MIT. Безкоштовний і відкритий код.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Вихідний код на GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Налаштування збережено",
+    "description": "Toast message when settings are saved."
+  }
+}

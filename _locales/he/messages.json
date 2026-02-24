@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Visualizer של מבנה DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "מדגיש חזותית את קינון הורה/ילד של DOM בעת ריחוף מעל אלמנטים בדף אינטרנט.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "הפעל/כיבוי של כלי חזותי",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "פתח את ההגדרות",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "פעיל - רחף מעל אלמנטים",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "נָכֶה",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "הגדרות",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "הצג תוויות",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "הצג תג אלמנט, מזהה ומידע מחלקה בעת ריחוף.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "הדגש הורים",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "הדגש רכיבי אב של הרכיב המרחף.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "הדגש ילדים",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "הדגש אלמנטים צאצאים ישירים של האלמנט המרחף.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "עומק הורה",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "כמה רמות של רכיבי אב להדגיש (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "ערכת צבעים",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "ערכת צבעים",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "בְּרִירַת מֶחדָל",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "נֵאוֹן",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "ניגודיות גבוהה",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "מִנְהָג",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "צבעים מותאמים אישית",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "אפס לברירות המחדל",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "אַגָדָה",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "אלמנט מרחף",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "אלמנטים הורים",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "אלמנטים של ילדים",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "מדיניות פרטיות",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer — הגדרות",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "הגדרות מתקדמות",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "הגדרות כלליות",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "תצוגה מקדימה חיה",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "אוֹדוֹת",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "מורשה תחת רישיון MIT. חינם וקוד פתוח.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "קוד מקור ב-GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "ההגדרות נשמרו",
+    "description": "Toast message when settings are saved."
+  }
+}

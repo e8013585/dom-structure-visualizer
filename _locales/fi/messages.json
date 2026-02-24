@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM-rakenteen visualisointityökalu",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Korostaa visuaalisesti DOM-emo-/lapsi-sisäkkäisyyden, kun hiiri viedään verkkosivun elementtien päälle.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Kytke visualisointi päälle/pois",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Avaa asetukset",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Aktiivinen — vie hiiri elementtien päälle",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Ei käytössä",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Asetukset",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Näytä tarrat",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Näytä elementin tunniste, tunnus ja luokkatiedot vietäessä hiiren osoitinta.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Korosta Vanhemmat",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Korosta hiirielementin yläelementit.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Korosta Lapset",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Korosta leijuttavan elementin suorat lapsielementit.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Vanhemman syvyys",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Kuinka monta ylätason elementtitasoa korostetaan (1–5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Värimalli",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Värimalli",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Oletus",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Korkea kontrasti",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Mukautettu",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Mukautetut värit",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Palauta oletusarvoihin",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Legenda",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Leijunut elementti",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Pääelementit",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Lapsielementit",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Tietosuojakäytäntö",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer — Asetukset",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Lisäasetukset",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Yleiset asetukset",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Live-esikatselu",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Noin",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Lisensoitu MIT-lisenssillä. Ilmainen ja avoin lähdekoodi.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Lähdekoodi GitHubissa",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Asetukset tallennettu",
+    "description": "Toast message when settings are saved."
+  }
+}

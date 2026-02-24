@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM структурен визуализатор",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Визуално подчертава влагането родител/дете на DOM, когато задържите курсора на мишката върху елементи на уеб страница.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Включване/изключване на визуализатора",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Отворете настройките",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Активен — задръжте курсора на мишката над елементите",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Забранено",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Настройки",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Показване на етикети",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Показване на етикет на елемент, идентификатор и информация за клас при задържане.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Маркирайте Родители",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Маркирайте родителските елементи на задържания елемент.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Маркирайте Деца",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Маркирайте директни дъщерни елементи на задържания елемент.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Родителска дълбочина",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Колко нива на родителски елементи да маркирате (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Цветова схема",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Цветова схема",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "По подразбиране",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Неон",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Висок контраст",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "По поръчка",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Персонализирани цветове",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Възстановяване на настройките по подразбиране",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Легенда",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Задържан елемент",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Родителски елементи",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Дъщерни елементи",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Политика за поверителност",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer — Настройки",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Разширени настройки",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Общи настройки",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Преглед на живо",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "За",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Лицензирано съгласно лиценза на MIT. Безплатен и с отворен код.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Изходен код в GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Настройките са запазени",
+    "description": "Toast message when settings are saved."
+  }
+}

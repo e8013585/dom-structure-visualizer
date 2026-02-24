@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM-i struktuuri visualiseerija",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Veebilehe elementide kohal hõljutades tõstab visuaalselt esile DOM-i vanema/lapse pesa.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Lülitage visualiseerija sisse/välja",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Ava seaded",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Aktiivne – hõljutage kursorit elementide kohal",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Keelatud",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Seaded",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Kuva sildid",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Kursori hõljutamisel kuvage elemendi märgendi, ID ja klassi teave.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Tõstke esile Vanemad",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Tõstke esile hõljutatud elemendi põhielemendid.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Tõstke esile Lapsed",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Tõstke esile hõljuva elemendi otsesed alamelemendid.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Vanemate sügavus",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Mitu põhielementide taset esile tõsta (1–5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Värviskeem",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Värviskeem",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Vaikimisi",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neoon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Kõrge kontrastsus",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Kohandatud",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Kohandatud värvid",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Lähtestage vaikeseadetele",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Legend",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Hõljutatud element",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Vanemelemendid",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Lapse elemendid",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Privaatsuspoliitika",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM-i visualiseerija – sätted",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Täpsemad seaded",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Üldsätted",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Otseülekanne",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Umbes",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Litsentsitud MIT-i litsentsi alusel. Tasuta ja avatud lähtekoodiga.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Lähtekood GitHubis",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Seaded salvestatud",
+    "description": "Toast message when settings are saved."
+  }
+}

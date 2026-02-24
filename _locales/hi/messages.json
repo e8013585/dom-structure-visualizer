@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM संरचना विज़ुअलाइज़र",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "किसी वेबपेज पर तत्वों पर मँडराते समय DOM पैरेंट/चाइल्ड नेस्टिंग को दृश्य रूप से हाइलाइट करता है।",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "विज़ुअलाइज़र को चालू/बंद टॉगल करें",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "खुली सेटिंग",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "सक्रिय - तत्वों पर होवर करें",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "अक्षम",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "सेटिंग्स",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "लेबल दिखाएँ",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "मँडराते समय तत्व टैग, आईडी और कक्षा की जानकारी प्रदर्शित करें।",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "माता-पिता को हाइलाइट करें",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "होवर किए गए तत्व के मूल तत्वों को हाइलाइट करें।",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "बच्चों को हाइलाइट करें",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "होवर किए गए तत्व के प्रत्यक्ष बाल तत्वों को हाइलाइट करें।",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "मूल गहराई",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "मूल तत्वों के कितने स्तरों को उजागर करना है (1-5)।",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "रंग योजना",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "रंग योजना",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "गलती करना",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "नियोन",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "हाई कॉन्ट्रास्ट",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "रिवाज़",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "कस्टम रंग",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "हेक्स",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "डिफ़ॉल्ट पर पुनः सेट करें",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "दंतकथा",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "मँडरा हुआ तत्व",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "मूल तत्व",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "बाल तत्व",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "गोपनीयता नीति",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM विज़ुअलाइज़र - सेटिंग्स",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "एडवांस सेटिंग",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "सामान्य सेटिंग्स",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "लाइव पूर्वावलोकन",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "के बारे में",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "एमआईटी लाइसेंस के तहत लाइसेंस प्राप्त। मुफ़्त और खुला स्रोत.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHub पर स्रोत कोड",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "सेटिंग्स को सहेजा गया",
+    "description": "Toast message when settings are saved."
+  }
+}

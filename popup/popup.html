@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="popup-container">
+    <!-- Header -->
+    <header class="popup-header">
+      <div class="header-left">
+        <img src="../icons/icon48.png" alt="" class="header-icon" width="28" height="28">
+        <h1 class="header-title" data-i18n="extensionName">DOM Visualizer</h1>
+      </div>
+      <div class="header-right">
+        <button id="settingsBtn" class="settings-btn" data-i18n-title="settingsBtnTooltip" title="Settings">
+          ⚙️
+        </button>
+        <button id="toggleBtn" class="toggle-btn" data-i18n-title="toggleTooltip" title="Toggle on/off">
+          <span class="toggle-track">
+            <span class="toggle-thumb"></span>
+          </span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Status Bar -->
+    <div id="statusBar" class="status-bar status-off">
+      <span class="status-dot"></span>
+      <span id="statusText" data-i18n="statusOff">Disabled</span>
+    </div>
+
+    <!-- Settings Section -->
+    <section class="settings-section">
+      <h2 class="section-title" data-i18n="settingsTitle">Settings</h2>
+
+      <!-- Show Labels -->
+      <div class="setting-row">
+        <label class="setting-label" for="showLabels">
+          <span class="setting-icon">🏷️</span>
+          <span data-i18n="showLabels">Show Labels</span>
+        </label>
+        <label class="checkbox-switch">
+          <input type="checkbox" id="showLabels" checked>
+          <span class="checkbox-slider"></span>
+        </label>
+      </div>
+
+      <!-- Highlight Parents -->
+      <div class="setting-row">
+        <label class="setting-label" for="highlightParents">
+          <span class="setting-icon">⬆️</span>
+          <span data-i18n="highlightParents">Highlight Parents</span>
+        </label>
+        <label class="checkbox-switch">
+          <input type="checkbox" id="highlightParents" checked>
+          <span class="checkbox-slider"></span>
+        </label>
+      </div>
+
+      <!-- Highlight Children -->
+      <div class="setting-row">
+        <label class="setting-label" for="highlightChildren">
+          <span class="setting-icon">⬇️</span>
+          <span data-i18n="highlightChildren">Highlight Children</span>
+        </label>
+        <label class="checkbox-switch">
+          <input type="checkbox" id="highlightChildren" checked>
+          <span class="checkbox-slider"></span>
+        </label>
+      </div>
+
+      <!-- Parent Depth -->
+      <div class="setting-row">
+        <label class="setting-label" for="parentDepth">
+          <span class="setting-icon">📏</span>
+          <span data-i18n="parentDepth">Parent Depth</span>
+        </label>
+        <div class="depth-control">
+          <button id="depthMinus" class="depth-btn">−</button>
+          <span id="depthValue" class="depth-value">2</span>
+          <button id="depthPlus" class="depth-btn">+</button>
+        </div>
+      </div>
+
+      <!-- Color Scheme -->
+      <div class="setting-row setting-row-vertical">
+        <label class="setting-label">
+          <span class="setting-icon">🎨</span>
+          <span data-i18n="colorScheme">Color Scheme</span>
+        </label>
+        <div class="color-schemes">
+          <button class="scheme-btn scheme-btn-active" data-scheme="default" data-i18n="schemeDefault">Default</button>
+          <button class="scheme-btn" data-scheme="neon" data-i18n="schemeNeon">Neon</button>
+          <button class="scheme-btn" data-scheme="highcontrast" data-i18n="schemeHighContrast">High Contrast</button>
+          <button class="scheme-btn" data-scheme="custom" data-i18n="schemeCustom">Custom</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Legend -->
+    <section class="legend-section">
+      <h2 class="section-title" data-i18n="legendTitle">Legend</h2>
+      <div class="legend-items">
+        <div class="legend-item">
+          <span class="legend-color legend-self" id="legendSelf"></span>
+          <span data-i18n="legendHovered">Hovered Element</span>
+        </div>
+        <div class="legend-item">
+          <span class="legend-color legend-parent" id="legendParent"></span>
+          <span data-i18n="legendParent">Parent Elements</span>
+        </div>
+        <div class="legend-item">
+          <span class="legend-color legend-child" id="legendChild"></span>
+          <span data-i18n="legendChild">Child Elements</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="popup-footer">
+      <a href="https://AestheticDreamsAI.github.io/dom-structure-visualizer/privacy" target="_blank" rel="noopener noreferrer" class="footer-link" data-i18n="footerPrivacyLink">Privacy Policy</a>
+    </footer>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

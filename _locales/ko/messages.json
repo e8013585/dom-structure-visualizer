@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM 구조 시각화 도구",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "웹페이지의 요소 위로 마우스를 가져갈 때 DOM 상위/하위 중첩을 시각적으로 강조합니다.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "시각화 도우미 켜기/끄기 전환",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "설정 열기",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "활성 — 요소 위로 마우스를 가져갑니다.",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "장애가 있는",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "설정",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "라벨 표시",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "마우스를 올리면 요소 태그, ID, 클래스 정보가 표시됩니다.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "상위 강조 표시",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "마우스를 올린 요소의 상위 요소를 강조표시합니다.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "어린이 하이라이트",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "마우스를 올린 요소의 직접 하위 요소를 강조표시합니다.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "상위 깊이",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "강조 표시할 상위 요소 수준 수(1-5)입니다.",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "색 구성표",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "색 구성표",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "기본",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "네온",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "고대비",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "관습",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "사용자 정의 색상",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "마녀",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "기본값으로 재설정",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "전설",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "호버된 요소",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "상위 요소",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "하위 요소",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "개인 정보 보호 정책",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM 시각화 도우미 - 설정",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "고급 설정",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "일반 설정",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "실시간 미리보기",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "에 대한",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "MIT 라이선스에 따라 라이선스가 부여됩니다. 무료이며 오픈 소스입니다.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHub의 소스 코드",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "설정이 저장되었습니다.",
+    "description": "Toast message when settings are saved."
+  }
+}

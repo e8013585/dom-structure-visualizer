@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "DOM strukturasi vizualizatori",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Veb-sahifadagi elementlar ustiga sichqonchani olib kelganda DOM ota-ona/bola joylashuvini vizual tarzda ta'kidlaydi.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Vizualizatorni yoqish/o‘chirish",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Sozlamalarni oching",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Faol - kursorni elementlar ustiga olib boring",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Oʻchirilgan",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Sozlamalar",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Yorliqlarni ko'rsatish",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Element yorlig'i, identifikatori va sinf ma'lumotlarini kursorga o'tayotganda ko'rsatish.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Ota-onalarni ajratib ko'rsatish",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Hovered elementning asosiy elementlarini ajratib ko'rsatish.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Bolalarni ajratib ko'rsatish",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Hovered elementning bevosita asosiy elementlarini ajratib ko'rsatish.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Ota-ona chuqurligi",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Asosiy elementlarning qancha darajasini ajratib ko'rsatish kerak (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Rang sxemasi",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Rang sxemasi",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "Standart",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Neon",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Yuqori kontrast",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Maxsus",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Maxsus ranglar",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "HEX",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Asl holatiga qaytarish",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Afsona",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Hovered element",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Ota-ona elementlari",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Bolalar elementlari",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "Maxfiylik siyosati",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "DOM Visualizer - Sozlamalar",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Kengaytirilgan sozlamalar",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Umumiy sozlamalar",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Jonli ko‘rish",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "Haqida",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "MIT litsenziyasi ostida litsenziyalangan. Bepul va ochiq manba.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "GitHub-dagi manba kodi",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Sozlamalar saqlandi",
+    "description": "Toast message when settings are saved."
+  }
+}

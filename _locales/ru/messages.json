@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Визуализатор структуры DOM",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Визуально выделяет вложенность родительских и дочерних элементов DOM при наведении курсора на элементы на веб-странице.",
+    "description": "The description of the extension."
+  },
+  "toggleTooltip": {
+    "message": "Включить/выключить визуализатор",
+    "description": "Tooltip for the main toggle button."
+  },
+  "settingsBtnTooltip": {
+    "message": "Открыть настройки",
+    "description": "Tooltip for the settings gear button."
+  },
+  "statusOn": {
+    "message": "Активный — наведите курсор на элементы",
+    "description": "Status text when the extension is enabled."
+  },
+  "statusOff": {
+    "message": "Неполноценный",
+    "description": "Status text when the extension is disabled."
+  },
+  "settingsTitle": {
+    "message": "Настройки",
+    "description": "Title for the settings section."
+  },
+  "showLabels": {
+    "message": "Показать метки",
+    "description": "Setting to toggle label display."
+  },
+  "showLabelsDesc": {
+    "message": "Отображение тега элемента, идентификатора и информации о классе при наведении курсора.",
+    "description": "Description for the show labels setting."
+  },
+  "highlightParents": {
+    "message": "Выделить родителей",
+    "description": "Setting to toggle parent highlighting."
+  },
+  "highlightParentsDesc": {
+    "message": "Выделите родительские элементы наведенного элемента.",
+    "description": "Description for the highlight parents setting."
+  },
+  "highlightChildren": {
+    "message": "Выделить детей",
+    "description": "Setting to toggle children highlighting."
+  },
+  "highlightChildrenDesc": {
+    "message": "Выделите прямые дочерние элементы наведенного элемента.",
+    "description": "Description for the highlight children setting."
+  },
+  "parentDepth": {
+    "message": "Родительская глубина",
+    "description": "Setting to control how many parent levels to highlight."
+  },
+  "parentDepthDesc": {
+    "message": "Сколько уровней родительских элементов выделить (1-5).",
+    "description": "Description for the parent depth setting."
+  },
+  "colorScheme": {
+    "message": "Цветовая схема",
+    "description": "Setting to select the color scheme."
+  },
+  "colorSchemeTitle": {
+    "message": "Цветовая схема",
+    "description": "Title for the color scheme section in options."
+  },
+  "schemeDefault": {
+    "message": "По умолчанию",
+    "description": "Default color scheme name."
+  },
+  "schemeNeon": {
+    "message": "Неон",
+    "description": "Neon color scheme name."
+  },
+  "schemeHighContrast": {
+    "message": "Высокая контрастность",
+    "description": "High contrast color scheme name."
+  },
+  "schemeCustom": {
+    "message": "Обычай",
+    "description": "Custom color scheme name."
+  },
+  "customColorsTitle": {
+    "message": "Пользовательские цвета",
+    "description": "Title for the custom colors section."
+  },
+  "hexLabel": {
+    "message": "шестигранник",
+    "description": "Label for the hex color input."
+  },
+  "resetCustomColors": {
+    "message": "Сброс к настройкам по умолчанию",
+    "description": "Button to reset custom colors to default values."
+  },
+  "legendTitle": {
+    "message": "Легенда",
+    "description": "Title for the legend section."
+  },
+  "legendHovered": {
+    "message": "Наведенный элемент",
+    "description": "Legend label for the hovered element color."
+  },
+  "legendParent": {
+    "message": "Родительские элементы",
+    "description": "Legend label for parent element colors."
+  },
+  "legendChild": {
+    "message": "Дочерние элементы",
+    "description": "Legend label for child element colors."
+  },
+  "footerPrivacyLink": {
+    "message": "политика конфиденциальности",
+    "description": "Privacy policy link text in the footer."
+  },
+  "optionsPageTitle": {
+    "message": "Визуализатор DOM — Настройки",
+    "description": "Title of the options page."
+  },
+  "optionsSubtitle": {
+    "message": "Расширенные настройки",
+    "description": "Subtitle on the options page header."
+  },
+  "generalSettingsTitle": {
+    "message": "Общие настройки",
+    "description": "Title for the general settings section."
+  },
+  "previewTitle": {
+    "message": "Живой просмотр",
+    "description": "Title for the live preview section."
+  },
+  "aboutTitle": {
+    "message": "О",
+    "description": "Title for the about section."
+  },
+  "aboutLicense": {
+    "message": "Лицензировано по лицензии MIT. Бесплатный и с открытым исходным кодом.",
+    "description": "License information text."
+  },
+  "sourceCodeLink": {
+    "message": "Исходный код на GitHub",
+    "description": "Link text for the GitHub source code."
+  },
+  "savedStatus": {
+    "message": "Настройки сохранены.",
+    "description": "Toast message when settings are saved."
+  }
+}
